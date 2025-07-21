@@ -28,12 +28,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-![Bhupen's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhupen98&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhupen98&layout=compact&theme=tokyonight)
-
----
-
 ### 😂 Fun Quotes
 > “99 little bugs in the code, take one down, patch it around, 127 little bugs in the code…”
 
