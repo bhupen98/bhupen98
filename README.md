@@ -21,10 +21,9 @@
 ---
 
 ### 🛠️ Languages & Tools (and my English is funny haha)
-![JavaScript](https://img.shields.io/badge/JavaScript-Funny-yellow)
-![Python](https://img.shields.io/badge/Python-Snek-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript--yellow)
+![Python](https://img.shields.io/badge/Python--blue)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-101%25-black?style=flat-square&logo=openai)
-![English](https://img.shields.io/badge/English-Funny-green)
 
 ---
 
@@ -38,9 +37,6 @@
 
 **JavaScript**  
 ██░░░░░░░░░░░░░░░░░░░░░░░ 20%
-
-**English (Funny)**  
-░░░░░░░░░░░░░░░░░░░░░░░░░ "haha"
 
 ---
 
