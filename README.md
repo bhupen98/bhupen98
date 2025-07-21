@@ -20,11 +20,27 @@
 
 ---
 
-### 🛠️ Languages & Tools
-![Frontend](https://img.shields.io/badge/Frontend-React%2C%20HTML%2C%20CSS-blue)
-![Backend](https://img.shields.io/badge/Backend-Node.js%2C%20Express-green)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
-![Learning](https://img.shields.io/badge/Learning-AI-brightgreen)
+### 🛠️ Languages & Tools (and my English is funny haha)
+![JavaScript](https://img.shields.io/badge/JavaScript-Funny-yellow)
+![Python](https://img.shields.io/badge/Python-Snek-blue)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-101%25-black?style=flat-square&logo=openai)
+![English](https://img.shields.io/badge/English-Funny-green)
+
+---
+
+### 🏆 Skills
+
+**ChatGPT**  
+███████████████████████████ 101%
+
+**Python**  
+█░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+
+**JavaScript**  
+██░░░░░░░░░░░░░░░░░░░░░░░ 20%
+
+**English (Funny)**  
+░░░░░░░░░░░░░░░░░░░░░░░░░ "haha"
 
 ---
 
