@@ -1,5 +1,8 @@
 
-<h1 align="center">Hey there, I'm Bhupen 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Bhupen+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <i>Mixing code, caffeine, and a touch of chaos.</i>
 </p>
@@ -32,8 +35,15 @@
 ---
 
 ### 😂 Fun Quotes
-> "To err is human, to blame it on AI is progress."
-> <br>"If at first you don’t succeed, call it version 1.0."
+> “99 little bugs in the code, take one down, patch it around, 127 little bugs in the code…”
+
+> “Will code for coffee.”
+
+> “My code works… I have no idea why.”
+
+> “Behind every great developer is a stack of failed deployments.”
+
+> “I turn caffeine into code and bugs into features.”
 
 ---
 
