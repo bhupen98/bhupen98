@@ -20,10 +20,9 @@
 
 ---
 
-### 🛠️ Languages & Tools (and my English is funny haha)
+### 🛠️ Languages & Tools 
 ![JavaScript](https://img.shields.io/badge/JavaScript--yellow)
 ![Python](https://img.shields.io/badge/Python--blue)
-🤖
 
 
 ---
