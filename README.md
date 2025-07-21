@@ -23,7 +23,8 @@
 ### 🛠️ Languages & Tools (and my English is funny haha)
 ![JavaScript](https://img.shields.io/badge/JavaScript--yellow)
 ![Python](https://img.shields.io/badge/Python--blue)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-101%25-black?style=flat-square&logo=openai)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-101%25-black?style=flat-square&logo=openai) 🤖
+
 
 ---
 
