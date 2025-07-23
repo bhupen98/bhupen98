@@ -17,6 +17,7 @@
 - 🥇 Known to make production servers nervous
 - 🍕 Fuelled by pizza and curiosity
 - 💡 "Why do it manually when you can automate it and watch it break?"
+- I love debugging 
 
 ---
 
