@@ -11,7 +11,6 @@
 
 ### About Me
 
-- 🚀 Frontend, backend, ChatGPT expert (sometimes even at the same time)
 - 🤖 Learning through AI (and occasionally from my own bugs)
 - 😅 Can debug your code and your life (results may vary)
 - 🥇 Known to make production servers nervous
