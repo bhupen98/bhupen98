@@ -10,6 +10,7 @@
 
 ### About Me
 
+<<<<<<< HEAD
 - 🚀 **Full-Stack Developer** - Crafting complete web applications from database to UI
 - 🎯 **Innovation Platform Builder** - Creating marketplaces that connect ideas with opportunities
 - 🗄️ **Database Architect** - PostgreSQL, Prisma ORM, and data modeling expert
@@ -18,6 +19,14 @@
 - 🤖 **AI Integration Expert** - Leveraging AI tools for enhanced development workflows
 - ☕ **Problem Solver** - Turning complex challenges into elegant solutions
 - 💡 **Idea Catalyst** - Building platforms that cure "idea fear" and foster innovation
+=======
+- 🤖 Learning through AI (and occasionally from my own bugs)
+- 😅 Can debug your code and your life (results may vary)
+- 🥇 Known to make production servers nervous
+- 🍕 Fuelled by pizza and curiosity
+- 💡 "Why do it manually when you can automate it and watch it break?"
+- I love debugging 
+>>>>>>> cc2d3e30e1cdfb1426775a329492c2821415e61a
 
 ---
 
