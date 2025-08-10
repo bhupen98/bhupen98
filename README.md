@@ -178,7 +178,7 @@
   ---
   
   <p style="font-size: 16px; color: #6B7280;">
-    <strong>Thanks for visiting!</strong> Let's build something amazing together. May your code compile on the first try. ��
+    <strong>Thanks for visiting!</strong> Let's build something amazing together. May your code compile on the first try! ��
   </p>
   
 </div>
