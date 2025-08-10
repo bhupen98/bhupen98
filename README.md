@@ -34,10 +34,10 @@
     </tr>
     <tr>
       <td>🤖</td>
-      <td><strong>AI Integration Expert</strong> - Leveraging AI tools for enhanced development workflows</td>
+      <td><strong>AI Integration Expert</strong> - Learning through AI and real-world applications</td>
     </tr>
     <tr>
-      <td>☕</td>
+      <td>🔧</td>
       <td><strong>Problem Solver</strong> - Turning complex challenges into elegant solutions</td>
     </tr>
     <tr>
@@ -53,10 +53,16 @@
 
 <div align="center">
   
+  ### Programming Languages
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
   ### Frontend Development
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
   ### Backend & Database
@@ -86,6 +92,10 @@
   | **Authentication & Security** | Advanced | ⭐⭐⭐⭐ |
   | **Modern UI/UX Development** | Advanced | ⭐⭐⭐⭐ |
   | **Problem Solving & Debugging** | Expert | ⭐⭐⭐⭐⭐ |
+  | **AI Integration** | Advanced | ⭐⭐⭐⭐ |
+  | **JavaScript/TypeScript** | Advanced | ⭐⭐⭐⭐ |
+  | **React/Next.js** | Advanced | ⭐⭐⭐⭐ |
+  | **Python** | Intermediate | ⭐⭐⭐ |
   
 </div>
 
@@ -95,28 +105,33 @@
 
 <div align="center">
   
-  - **🔥 Innovation Marketplaces** - Platforms connecting ideas with opportunities
-  - **🛒 E-commerce Solutions** - Complete marketplace systems with payment integration
-  - **👥 User Management Systems** - Secure authentication and profile management
-  - **⚡ Real-time Applications** - Dynamic, responsive web experiences
-  - **🗄️ Database-Driven Apps** - Scalable solutions with robust data architecture
-  - **🔌 API-First Applications** - RESTful APIs and seamless integrations
+  - 🔥 **Innovation Marketplaces** - Platforms connecting ideas with opportunities
+  - 🚀 **E-commerce Solutions** - Complete marketplace systems with payment integration
+  - 🗄️ **User Management Systems** - Secure authentication and profile management
+  - ⚡ **Real-time Applications** - Dynamic, responsive web experiences
+  - 🌐 **Database-Driven Apps** - Scalable solutions with robust data architecture
+  - 🔌 **API-First Applications** - RESTful APIs and seamless integrations
   
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 💡 Current Focus
 
 <div align="center">
   
   Building **Ideay** - An innovation marketplace platform that transforms idea fear into fearless innovation. Connecting creators, entrepreneurs, and problem-solvers in a secure, collaborative environment.
   
+  - 🔥 **Building scalable web applications**
+  - 🚀 **Exploring AI integration in development**
+  - 📚 **Learning advanced React patterns**
+  - 🌐 **Contributing to open source projects**
+  
 </div>
 
 ---
 
-## 💬 Developer Philosophy
+## 💬 Developer Wisdom
 
 <div align="center">
   
@@ -127,6 +142,16 @@
   > *"Innovation happens at the intersection of technology and human needs."*
   
   > *"Every bug is just a feature waiting to be discovered."*
+  
+  > *"99 little bugs in the code, take one down, patch it around, 127 little bugs in the code…"*
+  
+  > *"Will code for coffee."*
+  
+  > *"My code works… I have no idea why."*
+  
+  > *"Behind every great developer is a stack of failed deployments."*
+  
+  > *"I turn caffeine into code and bugs into features."*
   
 </div>
 
@@ -145,13 +170,15 @@
   ### Let's Connect!
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhupen98)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapa.bhupen47@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapa.bhupen47@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
   
   ---
   
   <p style="font-size: 16px; color: #6B7280;">
-    <strong>Thanks for visiting!</strong> Let's build something amazing together. ��
+    <strong>Thanks for visiting!</strong> Let's build something amazing together. May your code compile on the first try. ��
   </p>
   
 </div>
