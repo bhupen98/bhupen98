@@ -52,7 +52,7 @@ Building **Ideay** - An innovation marketplace that connects creators with oppor
 
 ## Let's Connect
 
-[GitHub](https://github.com/bhupen98) • [Email](mailto:thapa.bhupen47@gmail.com) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/bhupen98) • [Email](mailto:thapa.bhupen47@gmail.com)
 
 ---
 
