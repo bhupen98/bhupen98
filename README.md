@@ -42,6 +42,8 @@ I'm a passionate developer who learned everything through self-study and the pow
 
 > "Self-taught developers have a unique perspective - we learn by doing."
 
+> "When CMD fails, PowerShell prevails!" ⚡
+
 ---
 
 ## Current Focus
